@@ -2,6 +2,8 @@
 
 Pure Ruby FLUX ISA v3.0 toolchain: **assembler**, **disassembler**, and **reference VM**.
 
+> ⚠️ **Superseded by `superinstance-flux-runtime`** — this repo provides a lightweight standalone assembler/disassembler, but a full-featured version is included in [`superinstance-flux-runtime`](https://github.com/SuperInstance/superinstance-flux-runtime-ruby) (published gem `superinstance-flux-runtime`). Consider using the runtime for the most complete opcode table and execution environment.
+
 Designed for scripting agent coordination, bytecode inspection, and FLUX program development in Ruby.
 
 ## Install
